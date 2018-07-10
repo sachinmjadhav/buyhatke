@@ -1,0 +1,24 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"src": "https://compare.buyhatke.com/company/img/front-end-1.png",
+			"title": "Diary of a Wimpy Kid: Old School"
+		},
+		{
+			"id": 2,
+			"src": "https://compare.buyhatke.com/company/img/front-end-2.jpeg",
+			"title": "Onida Liliput 6.5KG Top Load Washer"
+		},
+		{
+			"id": 3,
+			"src": "https://compare.buyhatke.com/company/img/front-end-3.png",
+			"title": "LG 28L Convection Microwave Oven"
+		},
+		{
+			"id": 4,
+			"src": "https://compare.buyhatke.com/company/img/front-end-4.jpeg",
+			"title": "Philips 102cm (40.2 inch) Full HD LED TV"
+		}
+	]
+}
